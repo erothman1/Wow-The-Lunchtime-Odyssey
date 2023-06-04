@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the 1st project of team Elva Rothman, Melanie Sapiandante, and Andrew Dean for Penn Full Stack Web Development. Wow! Owen Wilson's Lunchtime Odyssey is a game adventure tied to some of the most interesting trivia on the internet. Get owen to his sandwich and have a blast! 
+This is the 1st project of team Elva Rothman, Melanie Sapiandante, and Andrew Dean for Penn Full Stack Web Development. Wow! Owen Wilson's Lunchtime Odyssey is a game adventure tied to some of the most interesting trivia on the internet. Get Owen to his sandwich and have a blast! 
 
 ## Installation
 
@@ -12,7 +12,7 @@ N/A
 
 To navigate the Odyssey, the user can click/select the game category and begin the game. for each correct trivia question answered Owen moves up, closer to his prize, eachquestion you get wrong he moves back. Aim for the lowest score of 5!
 
-![screenshot of weather checker](./assets/images/Wow-The-Lunchtime-Odyssey_index.html.png)
+![screenshot of gameplay](./assets/images/Wow-The-Lunchtime-Odyssey_index.html.png)
 
 [Program]()
 ## Credits
